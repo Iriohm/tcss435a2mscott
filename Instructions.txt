@@ -1,0 +1,5 @@
+Open playerfirst.html in a browser window, or aifirst.html if you want the AI to 
+make the first move. From there, place pieces by pointing and clicking with the 
+cursor. Rotate the quadrants when appropriate using the arrow buttons around the 
+game board. The AI's last move will be displayed at the right, as well as whether 
+the game is won, lost, or tied. You may also switch colors if you like.

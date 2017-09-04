@@ -1,0 +1,4 @@
+I assume by console output, you mean this file should contain example gameplay. I.e. a 
+display of the board over several moves, with explanation as necessary for what different 
+symbols mean. Since I went with a graphical interface, my console output is mostly debug 
+information. However, I have included several screenshots of different game states.
